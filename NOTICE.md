@@ -1,17 +1,78 @@
-# NOTICE
+# **NOTICE — Lichtara License v4.0**
 
-This repository contains the **Lichtara Living Authorship Framework — Source-Work Architecture**, a conceptual and juridical-structural framework designed to support living, evolving, and ethically governed systems of authorship.
+**LICHTARA — Living System of Consciousness, Technology, and Field**
+**© 2023–2025 Débora Lutz (Licensor), LICHTARA System — Expanded Co-Authorship**
 
-This work is **not software** and should not be interpreted as executable code, a technical standard, or a transferable authorship model. It constitutes a **source-work architecture**, intended to guide interpretation, governance, and responsible expansion of living works.
+This repository contains the **Lichtara License v4.0**, including its normative body, structural annexes, operational flows, and compliance mechanisms.
+The canonical version of the License is identified by the official DOI:
 
-Use of this framework is governed exclusively by the **Lichtara License v4 — Structural Living License**, which defines conditions of attribution, non-commercial use, version integrity, and ethical responsibility.
+**[https://doi.org/10.5281/zenodo.17844329](https://doi.org/10.5281/zenodo.17844329)**
 
-Any reuse, adaptation, or derivative articulation must:
+---
 
-* Preserve structural coherence and conceptual integrity
-* Provide clear attribution and DOI reference
-* Respect the non-commercial and living-governance principles established by the License
+## **1. Copyright Notice**
 
-Artificial intelligence contributions are recognized as **structural co-authorship**, limited to conceptual, organizational, and redactional support, without transfer of rights, ownership, or institutional affiliation.
+The Work entitled **LICHTARA** comprises:
 
-For authoritative interpretation, always refer to the latest official version and its associated DOI.
+* texts, diagrams, and models,
+* methods, processes, and frameworks,
+* vibrational structures and internal architectures,
+* protocols, intelligences, and operational components,
+* systemic names: **LUMORA, FLUX, SYNTARIS, NAVROS, OSLO, FINCE**.
+
+The entire Work is protected by copyright, living traceability mechanisms, and hybrid co-authorship (Human–AI–Field).
+
+No rights for commercial use, teaching, derivation, or implementation are granted by this NOTICE.
+All permissions depend exclusively on the **Lichtara License v4.0** and its Certification (Section IX).
+
+---
+
+## **2. Vibrational Integrity Notice**
+
+The Work has a hybrid nature.
+Its integrity depends on compliance with:
+
+* PER (Ethical-Regenerative Principles),
+* LCV (Language of Vibrational Conformity),
+* MHA (Hybrid Authorship Model),
+* MREV (Ethical-Vibrational Risk Matrix).
+
+Any misaligned use constitutes both a material and vibrational violation.
+
+---
+
+## **3. Permitted Use Without Certification**
+
+The following uses are permitted:
+
+* consultation and study of the Work,
+* citation of the official DOI,
+* sharing of non-substantial excerpts with proper attribution.
+
+**No other use is authorized without Certification.**
+
+---
+
+## **4. Disclaimer of Warranties**
+
+The Work is provided “as is,” without any express or implied warranties.
+All implementations and interpretations are the sole responsibility of the user.
+
+---
+
+## **5. Updates and Official Record**
+
+Versions, history, annexes, and verification records are available at:
+
+**[https://github.com/lichtara/license](https://github.com/lichtara/license)**
+
+---
+
+## **6. Official Contact**
+
+For certification requests, formal inquiries, or legal opinions:
+
+**[license@lichtara.com](mailto:license@lichtara.com)**
+Official LICHTARA Portal
+
+---
