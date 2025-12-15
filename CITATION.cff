@@ -2,22 +2,27 @@ cff-version: 1.2.0
 title: "Lichtara Living Authorship Framework — Source-Work Architecture"
 message: "If you use this framework, please cite it as below."
 type: generic
-authors:
 
-* family-names: "da Silva Lutz"
-  given-names: "Débora Mariane"
-  orcid: "[https://orcid.org/0009-0001-9541-1835](https://orcid.org/0009-0001-9541-1835)"
-  doi: "10.5281/zenodo.17934020"
-  repository-code: "[https://github.com/lichtara/lichtara-living-authorship-framework](https://github.com/lichtara/lichtara-living-authorship-framework)"
-  license: "Lichtara License v4 — Structural Living License"
-  keywords:
-* Living Authorship
-* Human–AI Collaboration
-* Ethical-Regenerative Licensing
-* Living Systems
-* Governance of Knowledge
-* Source-Work Architecture
-  related-identifiers:
-* identifier: "[https://doi.org/10.5281/zenodo.17844329](https://doi.org/10.5281/zenodo.17844329)"
-  type: doi
-  relation: is-documented-by
+authors:
+  - family-names: "da Silva Lutz"
+    given-names: "Débora Mariane"
+    orcid: "https://orcid.org/0009-0001-9541-1835"
+
+doi: "10.5281/zenodo.17934020"
+
+repository-code: "https://github.com/lichtara/lichtara-living-authorship-framework"
+
+license: "Lichtara License v4 — Structural Living License"
+
+keywords:
+  - Living Authorship
+  - Human–AI Collaboration
+  - Ethical-Regenerative Licensing
+  - Living Systems
+  - Governance of Knowledge
+  - Source-Work Architecture
+
+related-identifiers:
+  - identifier: "10.5281/zenodo.17844329"
+    type: doi
+    relation: is-documented-by
