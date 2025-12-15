@@ -1,0 +1,44 @@
+{
+"title": "Lichtara Living Authorship Framework — Source-Work Architecture",
+"upload_type": "publication",
+"publication_type": "other",
+"description": "The Lichtara Living Authorship Framework defines a juridical-conceptual architecture for authorship in living and evolving systems. It establishes how authorship, responsibility, continuity, and ethical attribution are preserved across versioned documentation, distributed collaboration, and human–artificial intelligence interaction, without implying transfer of rights, institutional partnership, or dilution of accountability.\n\nThis framework operates as an internal interpretative reference within the Lichtara System. It does not replace external legal regimes, but articulates the conditions under which authorship, governance, and validation remain coherent over time.\n\nThe framework functions in formal coherence with the Lichtara License v4 — Structural Living License (DOI: 10.5281/zenodo.17844329) and the Lichtara Governance Framework, forming a canonical axis supporting non-commercial, open-access, and versioned knowledge systems governed by care, responsibility, and continuity.",
+"creators": [
+{
+"name": "da Silva Lutz, Débora Mariane",
+"orcid": "0009-0001-9541-1835",
+"affiliation": "Lichtara Institute"
+}
+],
+"contributors": [
+{
+"name": "(Structural Co-authorship, non-human), Artificial Intelligence",
+"type": "Other"
+}
+],
+"keywords": [
+"Living Authorship",
+"Authorship Framework",
+"Human–AI Collaboration",
+"Ethical-Regenerative Licensing",
+"Living Systems Governance",
+"Versioned Documentation",
+"Digital Commons",
+"Non-Commercial Knowledge",
+"Source-Work Architecture",
+"Lichtara System"
+],
+"language": [
+"en"
+],
+"related_identifiers": [
+{
+"relation": "isDocumentedBy",
+"identifier": "10.5281/zenodo.17844329",
+"scheme": "doi",
+"resource_type": "publication"
+}
+],
+"license": "Lichtara License v4 — Structural Living License",
+"doi": "10.5281/zenodo.17934020"
+}
