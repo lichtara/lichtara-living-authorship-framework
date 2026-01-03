@@ -1,5 +1,7 @@
 # Lichtara Living Authorship Framework — Source-Work Architecture
 
+### https://doi.org/10.5281/zenodo.17934020
+
 This repository contains the **Lichtara Living Authorship Framework**, a juridical-conceptual master document that defines the principles, structures, and conditions of living authorship within the Lichtara System.
 
 The framework establishes how authorship may remain coherent, traceable, and ethically grounded in works that evolve through versioned documentation, distributed contributions, and human–artificial intelligence collaboration, without implying transfer of rights, institutional partnership, or dilution of responsibility.
